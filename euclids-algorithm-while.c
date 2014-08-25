@@ -34,7 +34,10 @@ int gcd3(int a, int b)
 
 main()
 {
-	printf("%d\n",gcd(8,10));
-	printf("%d\n",gcd2(8,10));
-	printf("%d\n",gcd3(8,10));
+	printf("%d\n",gcd(12,4));
+	printf("%d\n",gcd2(12,4));
+	printf("%d\n",gcd3(12,4));
+
+	
+//	printf("%f\n",12.7%8.0);
 }
